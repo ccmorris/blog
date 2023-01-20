@@ -1,14 +1,21 @@
-import { ReactNode } from 'react'
+import DateFormatter from './date-formatter'
 
 type Props = {
-  children?: ReactNode
+  title: string
+  date: string
 }
 
-const PostTitle = ({ children }: Props) => {
+const PostTitle = ({ title, date }: Props) => {
   return (
-    <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold tracking-tighter leading-tight md:leading-none mb-12 text-center md:text-left">
-      {children}
-    </h1>
+    <>
+      <h1 className="text-2xl md:text-4xl font-bold tracking-tight md:tracking-tighter leading-tight">
+        {title}
+      </h1>
+      <div className="mb-6 text-lg">
+        <DateFormatter dateString={date} />
+      </div>
+      <hr />
+    </>
   )
 }
 
