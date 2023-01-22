@@ -11,7 +11,7 @@ const Header = () => {
       }}
     >
       <Container>
-        <h1 className="text-4xl md:text-6xl font-bold tracking-tight md:tracking-tighter leading-tight mb-4">
+        <h1 className="text-3xl sm:text-4xl md:text-6xl font-bold tracking-tight md:tracking-tighter leading-tight mb-4">
           <Link href="/">/* {SITE_NAME} */</Link>
         </h1>
         <p>Software dev who writes about tech life 💻 and curling 🥌</p>
