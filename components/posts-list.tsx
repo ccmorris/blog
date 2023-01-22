@@ -9,7 +9,7 @@ const PostList = ({ posts }: Props) => {
   return (
     <section className="max-w-2xl mx-auto">
       {posts.map((post) => (
-        <div className="mb-24">
+        <div className="mb-24" key={post.slug}>
           <PostPreview
             key={post.slug}
             title={post.title}
