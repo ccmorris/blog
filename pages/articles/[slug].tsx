@@ -25,6 +25,7 @@ export default function Post({ post, preview }: Props) {
     <Layout preview={preview}>
       <Head>
         <title>{`${post.title} | Chris Morris' Blog`}</title>
+        <meta name="keywords" content={post.tags?.join(', ')} />
       </Head>
       <Header />
       <Container>
@@ -50,6 +51,7 @@ export async function getStaticProps({ params }: Params) {
     'date',
     'slug',
     'content',
+    'tags',
   ])
   const content = await markdownToHtml(post.content || '')
 
