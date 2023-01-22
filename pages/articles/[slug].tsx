@@ -24,7 +24,7 @@ export default function Post({ post, preview }: Props) {
   return (
     <Layout preview={preview}>
       <Head>
-        <title>{post.title} | Chris Morris' Blog</title>
+        <title>{`${post.title} | Chris Morris' Blog`}</title>
       </Head>
       <Header />
       <Container>
