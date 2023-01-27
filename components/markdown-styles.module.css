@@ -24,15 +24,15 @@
 }
 
 .markdown ol {
-  @apply ml-10 list-decimal;
+  @apply ml-5 sm:ml-10 list-decimal;
 }
 .markdown ul {
-  @apply ml-10 list-disc;
+  @apply ml-5 sm:ml-10 list-disc;
 }
 .markdown li {
   @apply mb-2;
 }
 
 .markdown figure {
-  @apply p-6 my-6 bg-slate-200;
+  @apply p-5 my-6 -mx-5 md:mx-0 md:p-6 bg-slate-200;
 }
