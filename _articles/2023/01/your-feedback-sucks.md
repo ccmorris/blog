@@ -48,3 +48,7 @@ Forget the sandwich approach of balancing negative feedback between positives. P
 <blockquote>"[...] treat all feedback exchanges, as much as possible, as though they are a <strong>partnership</strong>. You are not coming down from a mountaintop of perfection to give advice; rather you're two people working together toward shared goals, and feedback is part of making that partnership healthy and productive. [...] to give good feedback that actually helps an individual or team grow, it's pertinent that they <strong>don't feel threatened</strong> and feel that it's coming from a place of care."</blockquote>
 <figcaption>&mdash; <a href="https://twitter.com/sarah_edo">Sarah Drasner</a>, <cite>Engineering Management for the Rest of Us</cite> (2022)</figcaption>
 </figure>
+
+Writing feedback takes time, especially when you consider all these principles! Remember that when it feels like your manager takes an eternity to write your performance evaluation.
+
+These are ideas that I have learned from my own experiences, from peers who have received lackluster feedback reviews, and from experts who have written about this topic before me. What principles do you feel are important to you? What guidelines do you follow when giving feedback to your peers? Let me know on Twitter [@chrismorris](https://twitter.com/chrismorris).
