@@ -26,7 +26,7 @@ There are two kinds of critical feedback: failing to meet expectations, and area
 6. **Private.**  
    Critical feedback should never be given in public. Talk to the recipient or their manager in private. The one exception to this rule is inappropriate behaviour, which is arguably outside the realm of peer feedback. But harassment, discrimination, and hateful comments have no home in the workplace.
 
-## Principles of Positive Feedback (including shoutouts!):
+## Principles of Positive Feedback (including shoutouts!)
 
 1. **Specific.**  
    Add detail about the scenario(s) that prove your point, including stories, metrics, and even technical details.
