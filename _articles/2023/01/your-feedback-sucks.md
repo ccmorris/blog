@@ -11,8 +11,6 @@ Giving feedback is a regular part of senior roles in any industry. _Useful_ feed
 
 ## Principles of Constructive Feedback
 
-There are two kinds of critical feedback: failing to meet expectations, and areas to improve.
-
 1. **Specific.**  
    Add specific examples if possible, and stick to the facts. Never base constructive feedback on an opinion. Base it on facts, events, and examples.
 2. **Actionable.**  
