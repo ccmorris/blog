@@ -8,7 +8,8 @@
 .markdown blockquote {
   @apply my-6;
 }
-.markdown p:first-child {
+.markdown p:first-child,
+.markdown blockquote:first-child {
   @apply mt-0;
 }
 .markdown p:last-child {
@@ -32,9 +33,6 @@
   @apply mb-2;
 }
 
-.markdown blockquote {
+.markdown figure {
   @apply p-6 my-6 bg-slate-200;
-}
-.markdown cite {
-  @apply mt-6 block;
 }

@@ -46,5 +46,7 @@ Take care to keep public shoutouts meaningful. It is not the place to recognize 
 
 Forget the sandwich approach of balancing negative feedback between positives. Presenting feedback in a manner that expresses you care about the individual personally and have their aspirations in mind is a better method of making the individual feel good about their evaluation.
 
-> "[...] treat all feedback exchanges, as much as possible, as though they are a **partnership**. You are not coming down from a mountaintop of perfection to give advice; rather you're two people working together toward shared goals, and feedback is part of making that partnership healthy and productive. [...] to give good feedback that actually helps an individual or team grow, it's pertinent that they **don't feel threatened** and feel that it's coming from a place of care."  
-> <cite>&mdash; [Sarah Drasner](https://twitter.com/sarah_edo), Engineering Management for the Rest of Us (2022)</cite>
+<figure>
+<blockquote>"[...] treat all feedback exchanges, as much as possible, as though they are a <strong>partnership</strong>. You are not coming down from a mountaintop of perfection to give advice; rather you're two people working together toward shared goals, and feedback is part of making that partnership healthy and productive. [...] to give good feedback that actually helps an individual or team grow, it's pertinent that they <strong>don't feel threatened</strong> and feel that it's coming from a place of care."</blockquote>
+<figcaption>&mdash; <a href="https://twitter.com/sarah_edo">Sarah Drasner</a>, <cite>Engineering Management for the Rest of Us</cite> (2022)</figcaption>
+</figure>
