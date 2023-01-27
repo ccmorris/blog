@@ -8,11 +8,33 @@
 .markdown blockquote {
   @apply my-6;
 }
-
-.markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug;
+.markdown p:first-child {
+  @apply mt-0;
+}
+.markdown p:last-child {
+  @apply mb-0;
 }
 
-.markdown h3 {
+.markdown h2 {
   @apply text-2xl mt-8 mb-4 leading-snug;
+}
+.markdown h3 {
+  @apply text-xl mt-8 mb-4 leading-snug;
+}
+
+.markdown ol {
+  @apply ml-10 list-decimal;
+}
+.markdown ul {
+  @apply ml-10 list-disc;
+}
+.markdown li {
+  @apply mb-2;
+}
+
+.markdown blockquote {
+  @apply p-6 my-6 bg-slate-200;
+}
+.markdown cite {
+  @apply mt-6 block;
 }
