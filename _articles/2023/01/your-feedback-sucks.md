@@ -16,7 +16,7 @@ Giving feedback is a regular part of senior roles in any industry. _Useful_ feed
 2. **Actionable.**  
    What changes can be made to act on this feedback to for the candidate to improve for next time? Consider providing these action examples.
 3. **Timely.**  
-   Given at the time it is relevant, do not wait until performance evaluation. Critical feedback is most useful long before performance evaluations to give the recipient time to act. Also consider if the individual has already made strides to address the problem. If it is an improving situation already, the time has passed, so move on.
+   Criticism is most effective when given at the time it is relevant; do not wait until performance evaluation. Critical feedback is most useful long before performance evaluations to give the recipient time to act. Also consider if the individual has already made strides to address the problem. If it is an improving situation already, the time has passed, so move on.
 4. **Reasonable.**  
    Consider if there was anything the candidate could have done differently, or could have anticipated. If not, then it is unreasonable feedback.
 5. **Relevant.**  
