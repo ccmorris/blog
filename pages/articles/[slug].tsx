@@ -29,7 +29,7 @@ export default function Post({ post, preview }: Props) {
       </Head>
       <Header />
       <Container>
-        <article className="mb-32 max-w-2xl mx-auto">
+        <article className="mb-24 max-w-2xl mx-auto">
           <PostTitle title={post.title} date={post.date} />
           <PostBody content={post.content} />
           <PostFooter />

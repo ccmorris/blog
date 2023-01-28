@@ -17,3 +17,7 @@ h2 a:hover,
 h3 a:hover {
   text-decoration: underline;
 }
+
+hr {
+  @apply my-6;
+}

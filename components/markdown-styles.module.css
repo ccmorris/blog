@@ -8,11 +8,31 @@
 .markdown blockquote {
   @apply my-6;
 }
-
-.markdown h2 {
-  @apply text-3xl mt-12 mb-4 leading-snug;
+.markdown p:first-child,
+.markdown blockquote:first-child {
+  @apply mt-0;
+}
+.markdown p:last-child {
+  @apply mb-0;
 }
 
-.markdown h3 {
+.markdown h2 {
   @apply text-2xl mt-8 mb-4 leading-snug;
+}
+.markdown h3 {
+  @apply text-xl mt-8 mb-4 leading-snug;
+}
+
+.markdown ol {
+  @apply ml-5 sm:ml-10 list-decimal;
+}
+.markdown ul {
+  @apply ml-5 sm:ml-10 list-disc;
+}
+.markdown li {
+  @apply mb-2;
+}
+
+.markdown figure {
+  @apply p-5 my-6 -mx-5 md:mx-0 md:p-6 bg-slate-200;
 }

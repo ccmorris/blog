@@ -1,4 +1,3 @@
-import Container from './container'
 import markdownStyles from './markdown-styles.module.css'
 
 type Props = {
