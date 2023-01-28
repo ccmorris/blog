@@ -30,11 +30,11 @@ Giving feedback is a regular part of senior roles in any industry. _Useful_ feed
    Add detail about the scenario(s) that prove your point, including stories, metrics, and even technical details.
 2. **Describes what values were exhibited.**  
    Think of the formal company/department/team values, and the values that you personally strive to achieve.
-3. **Describes actions that contributed to those values.**
+3. **Describes actions that demonstrated those values.**
 4. **Describes why it was impactful.**  
    What difference would you notice if the individual did not have great performance? Did their actions drive any metrics, timing, culture shifts, risks averted, morale improvement?
 5. **Repeatable.**  
-   By focusing on the behaviours, your feedback becomes repeatable by repeating the behaviours that led to the previous outcome.
+   By focusing on the behaviours, your feedback becomes repeatable. They can reproduce the previously positive outcome by applying the same behaviours in the future.
 
 ## Gotchas
 
