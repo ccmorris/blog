@@ -2,7 +2,7 @@
 slug: '2023-01-your-feedback-sucks-how-to-give-useful-feedback'
 title: 'Your Feedback Sucks, How to Write Useful Feedback'
 excerpt: 'Giving feedback is a regular part of senior roles in any industry. _Useful_ feedback, however, is more rare. Writing constructive and positive feedback in a way that is actionable will help your team reach the next level.'
-date: '2023-01-27T14:34:17.849Z'
+date: '2023-01-28T16:46:50.183Z'
 tags:
   - feedback
 ---
