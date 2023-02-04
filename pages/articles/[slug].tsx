@@ -13,10 +13,11 @@ import Container from '../../components/container'
 
 type Props = {
   post: PostType
+  relatedPosts: Array<{ tag: string; posts: PostType[] }>
   preview?: boolean
 }
 
-export default function Post({ post, preview }: Props) {
+export default function Post({ post, relatedPosts, preview }: Props) {
   const router = useRouter()
   if (!router.isFallback && !post?.slug) {
     return <ErrorPage statusCode={404} />
@@ -32,7 +33,7 @@ export default function Post({ post, preview }: Props) {
         <article className="mb-24 max-w-2xl mx-auto">
           <PostTitle title={post.title} date={post.date} />
           <PostBody content={post.content} />
-          <PostFooter />
+          <PostFooter relatedPosts={relatedPosts} />
         </article>
       </Container>
     </Layout>
@@ -53,7 +54,9 @@ export async function getStaticProps({ params }: Params) {
     'content',
     'tags',
   ])
-  const content = await markdownToHtml(post.content || '')
+  const content = await markdownToHtml(post.content)
+
+  const relatedPosts = await getRelatedPosts(post)
 
   return {
     props: {
@@ -61,6 +64,7 @@ export async function getStaticProps({ params }: Params) {
         ...post,
         content,
       },
+      relatedPosts,
     },
   }
 }
@@ -78,4 +82,29 @@ export async function getStaticPaths() {
     }),
     fallback: false,
   }
+}
+
+const getRelatedPosts = async (post: Record<string, unknown>) => {
+  if (!Array.isArray(post.tags)) {
+    return []
+  }
+
+  const tags: string[] = post.tags
+  if (!tags.length) return []
+  const allPosts = await getAllPosts([
+    'title',
+    'date',
+    'slug',
+    'content',
+    'tags',
+  ])
+  return tags
+    .map((tag) => {
+      const postsWithTag = allPosts.filter(
+        (p) => p.tags.includes(tag) && p.slug !== post.slug
+      )
+      if (!postsWithTag.length) return undefined
+      return { tag, posts: postsWithTag.slice(0, 3) }
+    })
+    .filter((tag) => Boolean(tag))
 }
