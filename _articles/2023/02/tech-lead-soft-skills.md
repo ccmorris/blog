@@ -2,7 +2,7 @@
 slug: '2023-02-developing-soft-skills-intro-to-tech-leads'
 title: 'Developing Soft Skills: Introduction to Tech Leads'
 excerpt: 'Technical ability alone will not lead you to success as a tech lead. Tips for developing the soft skills required to be an exceptional tech lead.'
-date: '2023-02-05T17:46:45.878Z'
+date: '2023-02-05T22:47:39.883Z'
 tags:
   - tech lead
   - time management
@@ -12,9 +12,9 @@ Congratulations, you’re a tech lead! You are no longer an IC (Individual Contr
 
 In a nutshell, your role is to ensure the team delivers on time with technical quality. If you’re lucky you will help define what “on time” and “quality” means.
 
-The first order of business for any new role is the same. Get to know the expectations from your manager, agree on how you will be evaluated, and set some boundaries for your responsibilities. Boundaries are especially important for TL role because it can be a catch-all for miscellaneous tasks, and because a tech lead and engineering manager have some overlapping or shared duties.
+The first order of business for any new role is the same. Get to know the expectations from your manager, agree on how you will be evaluated, and set some boundaries for your responsibilities. Boundaries are especially important for the TL role because it can be a catch-all for miscellaneous tasks, and because a tech lead and engineering manager have some overlapping or shared duties.
 
-Remember that becoming a tech lead means you have a level of technical competence. If it helps dispel some imposter syndrome, know that you were hired/promoted because someone believes in your abilities!
+Remember that becoming a tech lead means you have some level of technical competence. If it helps dispel some imposter syndrome, know that you were hired/promoted because someone believes in your abilities!
 
 However, technical ability alone will not lead you to success in this role. Most of the skills required are non-technical “soft” skills: communication, project management, time management, leadership, and relationship building.
 
@@ -22,7 +22,7 @@ However, technical ability alone will not lead you to success in this role. Most
 
 Tech leads spends more time communicating with people than writing code. Frequently interfacing with Product Owners, but also with all other departments during discovery and planning phases including senior management, legal, finance, customer support, etc. As the most technical representative in cross-functional discussions you become the bridge between business objectives and technical requirements.
 
-Expect to receive a constant stream of questions and requests from your own team, from other teams since you are now the face of the team externally, from engineering managers, and from other departments since you are the engineering representative for some aspect of the product. The frequent context switching can be challenge, but if you can shield the IC team members from this problem as much as possible then they have more focus to deliver on the team commitments. Consider delegating questions/requests to another team member when it presents an opportunity that fits into their career development plan.
+You can expect to receive a constant stream of questions and requests from your own team, from other teams since you are now the face of the team externally, from engineering managers, and from other departments since you are the engineering representative for some aspect of the product. The frequent context switching can be challenge, but if you can shield the IC team members from this problem as much as possible then they have more focus to deliver on the team commitments. Consider delegating questions/requests to another team member when it presents an opportunity that fits into their career development plan.
 
 ## Prioritize Review Time
 
@@ -60,6 +60,6 @@ It is when you up-skill your team members, unblock them as quickly as possible, 
 
 ---
 
-A big part of being a tech lead is of course the technical leadership, coaching, mentoring, and knowledge sharing. Keep posted!
+A big part of being a tech lead is of course the technical leadership, coaching, mentoring, and knowledge sharing. Stay tuned!
 
 Special thanks to Connor Giles for his inspiration providing tech lead tips in this article, and also inspiration as a former peer tech lead in the same organization!
